@@ -1,7 +1,12 @@
+Knowledge on
+- Machine learning
+- Classification algorithms
+- Data preprocessing
+- Stemming and Lemmatizing
+
 Libraries
 - scikit learn
 - matplotlib
 - pandas
 - numpy
 - spacy
-- 
