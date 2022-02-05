@@ -6,7 +6,7 @@ Knowledge on
 
 Libraries
 - scikit learn
-- matplotlib
+- matplotlib, seaborn
 - pandas
 - numpy
-- spacy
+- spacy, wordcloud
