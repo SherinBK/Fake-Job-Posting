@@ -1,0 +1,7 @@
+Libraries
+- scikit learn
+- matplotlib
+- pandas
+- numpy
+- spacy
+- 
